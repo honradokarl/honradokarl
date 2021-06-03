@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there My Name is Karl John Honrado. I live in Cebu City, Philippines. 👋
 
 <!--
 **honradokarl/honradokarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
