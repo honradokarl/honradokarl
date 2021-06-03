@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a Full Stack Web Developer at Remotodojo.
 - 🌱 I’m currently learning AWS and programming best practices and design patterns.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honradokarl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honradokarl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **honradokarl/honradokarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
