@@ -1,5 +1,7 @@
 ### Hi there My Name is Karl John Honrado. I live in Cebu City, Philippines. 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honradokarl)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **honradokarl/honradokarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
