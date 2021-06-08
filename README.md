@@ -1,6 +1,6 @@
 ### Hi there My Name is Karl John Honrado. I live in Cebu City, Philippines. 👋
 
-- 🔭 I’m currently working as a Full Stack Web Developer at Remotodojo.
+- 🔭 I’m currently working on an e-commerce project.
 - 🌱 I’m currently learning AWS and programming best practices and design patterns.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honradokarl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
