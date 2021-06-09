@@ -1,4 +1,4 @@
-### Hi there My Name is Karl John Honrado. I live in Cebu City, Philippines. 👋
+### 👋 Hi there, welcome to my github profile. I'm Karl John Honrado, and I'm a full stack web developer. 
 
 - 🔭 I’m currently working on an e-commerce project.
 - 🌱 I’m currently learning AWS and programming best practices and design patterns.
