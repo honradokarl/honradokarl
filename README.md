@@ -1,4 +1,4 @@
-### 👋 Hi there, welcome to my github profile. I'm Karl John Honrado, and I'm a full stack web developer. 
+### 👋 Hi! Karl John Honrado here, and welcome to my github profile. 
 
 - 🔭 I’m currently working on an e-commerce project.
 - 🌱 I’m currently learning AWS and programming best practices and design patterns.
