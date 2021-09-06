@@ -2,11 +2,12 @@
 
 - 🔭 I’m currently working on an e-commerce project.
 - 🌱 I’m currently learning AWS and programming best practices and design patterns.
-- 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=honradokarl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honradokarl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=honradokarl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honradokarl&show_icons=true&theme=radical&include_all_commits=true)
 
