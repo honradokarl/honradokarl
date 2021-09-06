@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on an e-commerce project.
 - 🌱 I’m currently learning AWS and programming best practices and design patterns.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?email=honradokarljohn@gmail.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?email=honradokarl@gmail.com&show_icons=true&theme=radical)
 
 <!--
 **honradokarl/honradokarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
