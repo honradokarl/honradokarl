@@ -1,4 +1,4 @@
-### 👋 Hi! Karl John Honrado here, and welcome to my github profile. I'm a Full Stack Developer that specializes in PHP with Laravel framework. I have an over 5 years of experience in Software Development industry. Right after graduated from college with a bachelors degree in Information Technology, I entered the world of Software Development.
+### 👋 Hi! Karl John Honrado here, and welcome to my github profile. 
 
 - 🔭 I’m currently working on an e-commerce project.
 - 🌱 I’m currently learning AWS and programming best practices and design patterns.
