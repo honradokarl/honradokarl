@@ -1,7 +1,7 @@
 ### 👋 Hi! Karl John Honrado here, and welcome to my github profile. 
 
-- 🔭 I’m currently working on an e-commerce project.
-- 🌱 I’m currently learning AWS and programming best practices and design patterns.
+<!-- 🔭 I’m currently working on an e-commerce project.
+- 🌱 I’m currently learning AWS and programming best practices and design patterns.-->
 
 ![](https://komarev.com/ghpvc/?username=honradokarl&color=green)
 
