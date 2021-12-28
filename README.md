@@ -3,9 +3,8 @@
 <!-- 🔭 I’m currently working on an e-commerce project.
 - 🌱 I’m currently learning AWS and programming best practices and design patterns.-->
 
--	:construction: I’m currently working on ...
-- 🌱 I’m currently learning ...
-- :hammer: I’m looking to collaborate on ...
+-	:construction: I’m currently working on a multi tenancy insurtech platform.
+- 🌱 I’m currently working with: Laravel, ReactJS, Vanilla PHP and MySQL
 - 📫 You can reach me at karljohnhonrado@gmail.com and on Twitter @honradokarl
 
 ![](https://komarev.com/ghpvc/?username=honradokarl&color=green)
