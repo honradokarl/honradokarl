@@ -5,7 +5,7 @@
 
 -	:construction: I’m currently working on a multi tenancy insurtech platform.
 - 🌱 I’m currently working with: Laravel, ReactJS, Vanilla PHP and MySQL
-- 📫 You can reach me at karljohnhonrado@gmail.com and on Twitter @honradokarl
+- 📫 You can reach me at karljohnhonrado@gmail.com and on Twitter @kjhonrado
 
 ![](https://komarev.com/ghpvc/?username=honradokarl&color=green)
 
