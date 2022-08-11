@@ -1,4 +1,7 @@
-### 👋 Hi! Karl John Honrado here, and welcome to my github profile. 
+![dino](https://user-images.githubusercontent.com/15603443/184051175-c43fbd34-8f4f-43b5-963c-8e9a0076c761.gif)
+
+
+### 👋 Hi! Karl Honrado here, and welcome to my github profile. 
 
 <!-- 🔭 I’m currently working on an e-commerce project.
 - 🌱 I’m currently learning AWS and programming best practices and design patterns.-->
