@@ -12,6 +12,8 @@
 
 ![](https://komarev.com/ghpvc/?username=honradokarl&color=green)
 
+[![wakatime](https://wakatime.com/badge/user/c093ad25-4561-4bae-8a24-e78bf0a52ac2.svg)](https://wakatime.com/@c093ad25-4561-4bae-8a24-e78bf0a52ac2)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honradokarl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=honradokarl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
