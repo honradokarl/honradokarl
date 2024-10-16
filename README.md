@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [karlhonrado.tech](karlhonrado.tech)
 
-- 💬 Ask me about **PHP, Laravel, Vue, React**
-
 - 📫 How to reach me **karljohnhonrado@gmail.com**
 
 - ⚡ Fun fact **Struggles means growth**
