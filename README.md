@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karl!</h1>
 <h3 align="center">Welcome to my github profile!</h3>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=honradokarl&label=Profile%20views&color=0e75b6&style=flat" alt="honradokarl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=honradokarl&label=Profile%20views&color=0e75b6&style=flat" alt="honradokarl" /> </p>
 
 [![wakatime](https://wakatime.com/badge/user/c093ad25-4561-4bae-8a24-e78bf0a52ac2.svg)](https://wakatime.com/@c093ad25-4561-4bae-8a24-e78bf0a52ac2)
 
-🔭 I’m currently working on a service platform that focuses on facilitating real-world social connections
+<!--🔭 I’m currently working on a service platform that focuses on facilitating real-world social connections
 
 - 🌱 I’m currently learning **DevOps**
 
